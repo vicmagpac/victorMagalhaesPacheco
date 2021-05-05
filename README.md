@@ -7,7 +7,7 @@ I am a software developer since 2010.
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I have worked with and work with:
+These are some of the technologies and tools that I have studied, worked with and work with:
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![ZendFramework](https://img.shields.io/badge/-ZendFramework-68B604?style=flat-square&logo=Zend-framework&logoColor=white)
