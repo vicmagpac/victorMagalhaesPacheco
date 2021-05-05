@@ -1,6 +1,8 @@
 
 My name is Victor Magalhães - victor.magalhaesp@gmail.com
 
+Graduated in Systems Analysis and Development from the Northeast Faculty of Technology (2015), specializing in Software Engineering with emphasis on software standards by the State University of Ceará (2017) and technical-professional course in E-Jovem - Information and Communication Technology by the Secretariat of Basic Education of Ceará (2011). He is currently a Full Programmer at Ceará Public Health School. He has experience in Computer Science, with an emphasis on Computer Systems.
+
 I am a software developer since 2010.
 
 ## ⚡ Technologies
